@@ -18,3 +18,13 @@ As it's being explained it seems like a very complex app with multiple data sets
 ## ::AFTER
 
 #### what stood out.
+
+Using axios library to do the ajax requests.
+
+All of the simple data filtering I thought we would be doing programmatically was taken care of by the api. The app was fairly straight forward but had a lot of parts and many state values.
+
+Using an object for form controlled input values was a good idea and kept the number of state values from getting unmanageable.
+
+Using multiple boolean state values to control which components get rendered gives the app the appearance of being multi-paged and also controls how we want the user to progress through the app.
+
+I liked that I started to understand the workflow for using react components and by the end was able to see where things were going before they were explained.
